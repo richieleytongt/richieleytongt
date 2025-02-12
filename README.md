@@ -1,6 +1,6 @@
-👋 Hola, soy Richie!
+# Hola, soy Richie!
 
-I'm a PhD student at University of the Witwatersrand working on Motorsport and Optimal Control projects.
+I'm a private race engineer and PhD student at University of the Witwatersrand working on Motorsport and Optimal Control projects.
 - 📫 richieleytongt@outlook.com
 - ☕ Fun fact: No tomo cafe
 
