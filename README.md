@@ -1,4 +1,4 @@
-# Hola, soy Richie!
+# Howzit, I'm Richie!
 
 I'm a private race engineer and PhD student at University of the Witwatersrand working on Motorsport and Optimal Control projects.
 - 📫 richieleytongt@outlook.com
