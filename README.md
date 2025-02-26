@@ -1,6 +1,6 @@
 # Hey there, I'm Richie!
 
-I'm a private race engineer and PhD student at The University of the Witwatersrand working on Motorsport and Optimal Control projects.
+I'm a private race engineer and PhD student at The University of the Witwatersrand working on Motorsport and Optimal Control projects. I received my Bachelor's of Science in Mechanical Engineering at the University of South Florida, and my MSc in Motorsport Engineering from Oxford Brookes University.
 - The main focus of my research is motorsport performance, a niche field of applied optimization. 
 - Here you'll find my journey as an engineer from camshaft design to laptime simulation codes and everything in between.
 
