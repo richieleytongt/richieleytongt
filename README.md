@@ -50,6 +50,8 @@ A quarter-car model that traverses a road bump, including tire contact loss, wit
 
 Minimizing the H₂ norm of a suspension model to improve road-holding performance.
 
+$$ \min_{k,c} \ J = \operatorname{trace}(\boldsymbol{q}\boldsymbol{C}P\boldsymbol{C}^T) $$
+
 **Topics:** Control theory · H₂ optimization · Suspension dynamics
 
 ## Publications & Research
