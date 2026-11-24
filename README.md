@@ -1,12 +1,16 @@
-# Hey there, I'm Richie!
+<p align="center">
+  <img src="assets/banner.svg" alt="Profile banner" width="100%">
+</p>
 
-I'm a **controls engineer, private race engineer, and PhD student** at the University of the Witwatersrand. My research focuses on applying **optimal control and numerical optimization** to develop tools for motorsport performance.
+<!-- # Hey there, I'm Richie! -->
+
+I'm a **controls engineer, private race engineer, and PhD student** at the University of the Witwatersrand. My work focuses on applying **optimal control and numerical optimization** to develop tools for motorsport performance.
 
 Motorsport is my primary application domain, but my interests extend to the broader fields of control and optimization. The methods I work with can also be applied to dynamic systems across many engineering disciplines and industries.
 
 I hold a BSc in Mechanical Engineering from the University of South Florida and an MSc in Motorsport Engineering from Oxford Brookes University. I've worked with sportscar teams competing in **IMSA and SRO**, across **GT3 and GT4** racing. My experience has taken me from tire work through data and performance engineering to race engineering.
 
-I'm currently affiliated with **General Motors**, which sponsors my research.
+I'm currently affiliated with **General Motors**, who sponsors my PhD.
 
 ---
 
@@ -27,7 +31,7 @@ I use this space to share simplified implementations of techniques from my resea
 Calculating vehicle yaw moment diagrams via optimal control for vehicles accelerating on three-dimensional roads.
 
 <p align="center">
-  <img src="assets/YMD.svg" alt="Vehicle yaw moment diagram" width="50%">
+  <img src="assets/YMD.svg" alt="Vehicle yaw moment diagram" width="90%">
 </p>
 
 **Topics:** Vehicle dynamics · Tire modeling · Optimal control
@@ -37,7 +41,7 @@ Calculating vehicle yaw moment diagrams via optimal control for vehicles acceler
 A quarter-car model that traverses a road bump, including tire contact loss, with suspension parameters optimized as part of the problem.
 
 <p align="center">
-  <img src="assets/qc_bumps.svg" alt="qc_bumps data" width="50%">
+  <img src="assets/qc_bumps.svg" alt="qc_bumps data" width="90%">
 </p>
 
 **Topics:** Quarter-car modeling · Suspension dynamics · Numerical optimization
